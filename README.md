@@ -47,7 +47,7 @@ UserName (owner)
 **ORDERS GET API:**
 <img width="1919" height="1074" alt="Orders GET API" src="https://github.com/user-attachments/assets/fbed21e9-07f4-4681-859d-06f5a8e22407" />
 
-**ORDERS PUT API:**
+**ORDERS PUT API (Quantity updated to 2 => Total price changes automatically):**
 <img width="1919" height="1056" alt="Orders PUT API" src="https://github.com/user-attachments/assets/0fe896ad-9403-4b0f-a6d9-ff164d16d03a" />
 
 **ORDERS POST API:**
